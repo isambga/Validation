@@ -2,7 +2,6 @@
 #include <string>
 using namespace std;
 
-
 bool isCharacter(const char );
 bool isValidateEmail(const string);
 void clear();
